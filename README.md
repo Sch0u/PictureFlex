@@ -3,7 +3,7 @@ This is a school project where we learned to use Javascript to flex pictures
 
 ## Description
 
-I made this as a HF 1 project in school, so her is it!
+I made this as a HF 1 project in school, so here it is!
 
 ### Dependencies
 
